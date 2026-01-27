@@ -1,12 +1,12 @@
 ## Project Title
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
+GBDA302 Side Quest Week 2
 
 ---
 
 ## Authors
 
-Karen Cochrane and David Han
+Karen Cochrane and David Han and Ebube Mbanefo - embanefo - 20931125
 
 ---
 
