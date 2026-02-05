@@ -14,7 +14,7 @@ Karen Cochrane and David Han and Ebube Mbanefo - embanefo - 20931125
 
 Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable.
 
----
+## Ebube Mbanefo created a fork of Karen and David's code for this version and changed the colour of the blob and background to portray the emotion: sadness. No GenAI was used.
 
 ## Learning Goals
 
